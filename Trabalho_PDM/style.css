@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    background-color: antiquewhite;
+}
+
+
+.btn-prompt{
+    border: none;
+    border-radius: 2px;
+    background-color: white;
+    width: 30%;
+    font-size: large;
+    position: absolute;
+}
